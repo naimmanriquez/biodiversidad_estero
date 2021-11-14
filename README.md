@@ -3,8 +3,11 @@
 
 Este repositorio tiene como objetivo principal generar indicadores para el análisis básico de la biodiversidad. Los datos provienen de un censo de aves en el Estero del Yugo en el municipio de Mazatlán, México.
 
+El Estero del Yugo es un Área Natural Protegida que alberga más de 230 especies; entre aves, anfibios, reptiles y mamíferos. 
+
 ![alt text](https://raw.githubusercontent.com/naimmanriquez/biodiversidad_estero/main/03_Gr%C3%A1ficas/estero.jpg?raw=true)
 
+Dentro de las casi 11 hectáreas, gran variedad de fauna se refugia y anida en este hábitat natural, de acuerdo a los registros, se estima que se encuentren al menos 216 tipos diferentes de aves, 8 de mamíferos, 5 de reptiles y 4 de anfibios. El objetivo de este análisis es dar evidencia de los indices de biodiversidad. 
 
 # Paquetes de R
 Deben instalar los siguientes paquetes:
