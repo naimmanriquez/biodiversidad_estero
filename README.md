@@ -21,10 +21,10 @@ La formula para el índice de Shannon-Weaver es:
 
 donde:
 
-- S – número de especies (la riqueza de especies)
-- pi – proporción de individuos de la especie i respecto al total de individuos (es decir la abundancia relativa de la especie i)
-- ni – número de individuos de la especie i
-- N – número de todos los individuos de todas las especies
+S – número de especies (la riqueza de especies)
+pi – proporción de individuos de la especie i respecto al total de individuos (es decir la abundancia relativa de la especie i)
+ni – número de individuos de la especie i
+N – número de todos los individuos de todas las especies
 
 - Simpson: es uno de los parámetros que nos permiten medir la riqueza de organismos. En ecología, es también usado para cuantificar la biodiversidad de un hábitat. Toma un determinado número de especies presentes en el hábitat y su abundancia relativa. Cuanto más se acerca el valor de este índice a la unidad, existe una mayor posibilidad de dominancia de una especie y de una población; y cuanto más se acerque el valor de este índice a cero mayor es la biodiversidad de un hábitat.
 
