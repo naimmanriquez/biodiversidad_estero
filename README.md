@@ -6,7 +6,7 @@ Este repositorio tiene como objetivo principal generar indicadores para el anál
 # Paquetes de R
 Deben instalar los siguientes paquetes:
 
-vegan (requiere además: permute, lattice).
-kableExtra (para tablas).
-ggplot2 (para gráficas).
-BiodiversityR.
+##### 1. vegan (requiere además: permute, lattice).
+##### 2. kableExtra (para tablas).
+##### 3. ggplot2 (para gráficas).
+##### 4. BiodiversityR.
