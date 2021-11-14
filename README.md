@@ -3,6 +3,9 @@
 
 Este repositorio tiene como objetivo principal generar indicadores para el análisis básico de la biodiversidad. Los datos provienen de un censo de aves en el Estero del Yugo en el municipio de Mazatlán, México.
 
+![alt text](https://raw.githubusercontent.com/naimmanriquez/biodiversidad_estero/main/03_Gr%C3%A1ficas/estero.jpg?raw=true)
+
+
 # Paquetes de R
 Deben instalar los siguientes paquetes:
 
