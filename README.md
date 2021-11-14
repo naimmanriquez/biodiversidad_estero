@@ -32,7 +32,7 @@ La formula para el índice de simpson se denota como:
 
 <img src="https://latex.codecogs.com/svg.image?D&space;=&space;\frac{\sum_{i=1}^{S}n{i}(n{i}-1)}{N(N-1)}" title="D = \frac{\sum_{i=1}^{S}n{i}(n{i}-1)}{N(N-1)}" />
 
-Donde:
+donde:
 
 - S es el número de especies.
 - N es el total de organismos presentes (o unidades cuadradas)
