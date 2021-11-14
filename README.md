@@ -10,7 +10,7 @@ El Estero del Yugo es un Área Natural Protegida que alberga más de 230 especie
 Dentro de las casi 11 hectáreas, gran variedad de fauna se refugia y anida en este hábitat natural, de acuerdo a los registros, se estima que se encuentren al menos 216 tipos diferentes de aves, 8 de mamíferos, 5 de reptiles y 4 de anfibios. El objetivo de este análisis es dar evidencia de los indices de biodiversidad. 
 
 # Paquetes de R
-Deben instalar los siguientes paquetes:
+Los paquetes para realizar el análisis de biodiversidad son los siguientes:
 
 ##### 1. vegan (requiere además: permute, lattice).
 ##### 2. kableExtra (para tablas).
